@@ -7,7 +7,7 @@ cask "pawels-helpful-assistant" do
   desc "Local-first personal work assistant with meeting recording and delegated CLI tasks"
   homepage "https://github.com/jestempablo/pawels-helpful-assistant-releases"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
   depends_on arch: :arm64
 
   app "Pawel's Helpful Assistant.app"
