@@ -1,6 +1,6 @@
 cask "pawels-helpful-assistant" do
-  version "0.2"
-  sha256 "23539bfab22a97ff06bec26d6334221ac8bf4d181fffee8208f9621acda00500"
+  version "0.3"
+  sha256 "49ebd2603bf8ceaf2a1aa53779d3b4d8f8c42cdef00607f5094a3ffbf8834432"
 
   url "https://github.com/jestempablo/pawels-helpful-assistant-releases/releases/download/v#{version}/Pawels-Helpful-Assistant-#{version}-notarized.zip"
   name "Pawel's Helpful Assistant"
